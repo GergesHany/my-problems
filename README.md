@@ -1,3 +1,3 @@
 # my-problems
 
-### in this repo my all problems (solutions, generators, validators)
+### in this repo all my problems (solutions, generators, validators)
